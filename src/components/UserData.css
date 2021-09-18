@@ -1,0 +1,15 @@
+.userData {
+    width: 80vw;
+    max-width: 600px;
+  
+    outline: 1px solid brown;
+}
+
+.userData__form {
+    display: flex;
+    flex-direction: column;
+}
+
+.userData__inputField {
+    margin: 15px 10px;
+}

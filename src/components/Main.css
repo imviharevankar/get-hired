@@ -1,0 +1,13 @@
+/* .main {
+    border: 4px solid green;
+    grid-area: main;
+    padding: 0 1rem;
+
+    display: grid;
+    grid-template-columns: 10% 90%;
+    grid-template-areas: 
+    "navBar content"; 
+    height: 100%;
+    width: 100%;
+
+  } */

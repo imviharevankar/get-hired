@@ -1,0 +1,14 @@
+.editProfile {
+    width: 100%;
+}
+
+.editProfile__form {
+    display: flex;
+    flex-direction: column;
+}
+
+.editProfile__form > div > TextField {
+    color: red;
+    margin: 10px 5px !important;
+    background-color: green;
+}

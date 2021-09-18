@@ -1,0 +1,41 @@
+.signIn {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: sandybrown;
+}
+
+.signIn__form {
+  /* outline: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50vw;
+  max-width: 400px;
+  border-radius: 25px;
+  background: #e0e0e0;
+  box-shadow: inset 5px 5px 10px #bcbcbc, inset -5px -5px 10px #ffffff;
+}
+
+.form__title {
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+.inputField {
+  width: 80% !important;
+  margin: 10px 5px !important;
+  color: pink !important;
+  border-color: salmon !important;
+}
+
+.signIn__button {
+  width: 80%;
+  margin-bottom: 10px !important;
+  height: 50px;
+  color: blueviolet !important;
+  font-size: 1.5rem !important;
+    text-transform: none !important;
+}
